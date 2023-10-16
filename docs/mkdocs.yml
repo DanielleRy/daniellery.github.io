@@ -1,7 +1,8 @@
 # Set up navigation: https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
-site_name: mllibs
-repo_name: 'mllibs'
-repo_url: https://github.com/shtrausslearning/mllibs
+site_name: mllibs-docs
+site_url: https://github.com/daniellery/daniellery.github.io
+repo_name: 'mllibs-docs'
+repo_url: https://github.com/daniellery/daniellery.github.io
 edit_uri: tree/master/docs/src/markdown
 site_description: Reference for mllibs
 docs_dir: markdown
